@@ -26,4 +26,3 @@ batch_badge_creator.each do |badges|
 
 assign_rooms.each do |room_assignments|
 end
-
